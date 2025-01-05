@@ -36,6 +36,8 @@ in above image is the shows the accelerometer has three-dimensional space (X, Y,
 4. Threshold-Based Detection: In a fall detection system, thresholds are set for accelerometer readings to differentiate between normal movements (e.g., tilting or vibrations) and abnormal events (e.g., falling). If the force along one axis drops significantly (e.g., close to zero), while another axis shows a sharp spike, it signals a fall event.
 
 5. Integration with System: The accelerometer outputs data in terms of voltage changes, which are interpreted by the microcontroller (Arduino). The Arduino processes the data to compare against predefined thresholds. When a fall is detected, it triggers alerts and other safety mechanisms, such as activating a buzzer, sending an SMS via GSM, or logging the event on a monitoring platform via WiFi.
+### connections part :
+![WhatsApp Image 2025-01-03 at 11 19 56 AM](https://github.com/user-attachments/assets/d6244a72-4300-425a-b05f-185acbc8af36)
 
 
 
