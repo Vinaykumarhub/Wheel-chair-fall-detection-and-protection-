@@ -1,5 +1,5 @@
 # Wheel-chair-fall-detection-and-protection-
-its the my final year project work i was done my role in the project it is circuit design and simulation also connection part the circuit design is shown below 👇 
+For my final year project, my role focused on the circuit design, simulation, and connection aspects of the system. The project involved developing a wheelchair fall detection system, and the circuit design, as shown below, incorporates various components such as an Arduino Uno, an ADXL335 accelerometer for detecting tilts or falls, a GPS module for location tracking, a GSM SIM 900 module for sending emergency alerts, and an ESP8266 WiFi module for remote monitoring. I meticulously designed the circuit to ensure seamless integration of these components, simulated their operation to validate the system's functionality, and carried out the physical connections to bring the design to life. This work was crucial for ensuring that the system could detect falls accurately and send alerts efficiently, contributing significantly to the project's overall success.
 ![WhatsApp Image 2025-01-05 at 8 43 37 AM](https://github.com/user-attachments/assets/3583b8a5-1f2d-4678-83dc-071b0836ee30)
 in abaove circiut desgin in cirkit designer website in that we create desgin of any arduino iot projects
 
