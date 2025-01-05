@@ -25,6 +25,7 @@ Would you like help with the Arduino code or component setup?
 
 ### how the accelerometer sensor detect the fall:
 ![WhatsApp Image 2025-01-05 at 8 41 46 AM](https://github.com/user-attachments/assets/a000c22c-c5c6-4331-b626-4327d66a9f71)
+
 in above image is the shows the accelerometer has three-dimensional space (X, Y, and Z axes) these changes get detection of the fall
 1. Static Orientation Detection: The accelerometer senses the gravitational force (1g) along its axes. For instance, in position (a), the force is aligned entirely along the Z-axis, indicating the device is flat on a surface. This serves as the baseline state for normal wheelchair positioning.
 
