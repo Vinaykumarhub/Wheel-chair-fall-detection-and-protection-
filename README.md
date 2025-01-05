@@ -39,6 +39,8 @@ in above image is the shows the accelerometer has three-dimensional space (X, Y,
 ### connections part :
 ![WhatsApp Image 2025-01-03 at 11 19 56 AM](https://github.com/user-attachments/assets/d6244a72-4300-425a-b05f-185acbc8af36)
 
+## After all the connection we place in box
+![WhatsApp Image 2025-01-03 at 11 19 58 AM](https://github.com/user-attachments/assets/91ff420c-7258-4cda-b95b-44cdf767ef98)
 
 
 
