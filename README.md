@@ -1,7 +1,7 @@
 # Wheel-chair-fall-detection-and-protection-
 its the my final year project work i was done my role in the project it is circuit design and simulation also connection part the circuit design is shown below 👇 
 ![WhatsApp Image 2025-01-05 at 8 43 37 AM](https://github.com/user-attachments/assets/3583b8a5-1f2d-4678-83dc-071b0836ee30)
-in abaove circiut desgin in cirkit desier website in that we create desgin of any arduino iot projects
+in abaove circiut desgin in cirkit designer website in that we create desgin of any arduino iot projects
 
 
 The circuit diagram illustrates a system designed for wheelchair fall detection using an Arduino Uno microcontroller. The primary components include an accelerometer sensor (ADXL335), a GPS module (NEO 6M), a GSM SIM 900 module, an ESP8266 WiFi module, a buzzer, servo motors (MG996R), and a rechargeable battery for power. Each component is interconnected with the Arduino, and the system is powered using the battery module. The system detects unusual tilts or falls based on accelerometer readings and alerts a caregiver or monitoring system.
